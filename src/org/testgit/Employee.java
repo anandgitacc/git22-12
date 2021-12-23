@@ -10,6 +10,11 @@ public class Employee {
 		System.out.println("8939278836");
 	}
 	
+	private void empAdd() {
+		
+		System.out.println("OMR, Chennai");
+	}
+	
 	public static void main(String[] args) {
 		
 		Employee e = new Employee();
